@@ -17,7 +17,8 @@ input[type=text]{
 }
 
 body{
-	background-image: url("../img/math.jpg");
+	background-image: background-image: linear-gradient(#ddd6f3, #faaca8);
+");
 	background-size: cover;
 	background-attachment: fixed;
 }
