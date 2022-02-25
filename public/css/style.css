@@ -1,7 +1,7 @@
 
 
 input[type=button]{
-	background: #5c42f4;
+	background: #ADD8E6;
 	/* width: 20%; */
 	/* font-size: 40px; */
 	font-weight: 500;
@@ -17,7 +17,7 @@ input[type=text]{
 }
 
 body{
-	background-image: background-image: linear-gradient(#ddd6f3, #faaca8);
+	background-image: linear-gradient(#ddd6f3, #faaca8);
 ");
 	background-size: cover;
 	background-attachment: fixed;
